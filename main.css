@@ -1,0 +1,147 @@
+html {
+  background-color: none;
+}
+body {
+  margin:0em;
+}
+
+h1 {
+  background-color: yellow;
+  padding: 1em 2em 0.5em 3em;
+  margin: 0;
+}
+
+nav {
+  background-color: lightyellow;
+  text-align: center;
+}
+
+nav ol {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+}
+
+nav a {
+  display: inline-block;
+  padding: 0.5em 0.75em 0.75em;
+  margin: 6px;
+  background-color: darkred;
+  color: black;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+ol {
+  list-style-type: none;
+  padding: 0;
+  line-height: 1.5;
+}
+
+li {
+  font-weight: normal;
+  font-size: 1rem;
+  font-style: normal;
+  font-family: 'Indie Flower', cursive;
+  line-height: 1;
+}
+
+a {
+  text-decoration: none;
+  color: purple;
+}
+
+a:hover {
+  color: white
+  ;
+}
+
+h2 {
+
+  font-weight: normal;
+  font-size: 2.5rem;
+  font-style: italic;
+  font-family: 'Indie Flower', cursive;
+  line-height: 1;
+  margin: 1em 0em 0em 0em;
+}
+
+em {
+  font-style: italic;
+  font-weight: bold;
+}
+
+strong {
+  color: white;
+}
+
+blockquote {
+  font-weight: normal;
+  font-size: 2rem;
+  font-style: italic;
+  font-family: arial, sans-serif;
+}
+
+.dude {
+  font-weight: normal;
+  font-size: 0.9rem;
+  font-style: italic;
+  font-family: arial, sans-serif;
+  line-height: 1;
+  color: darkblue;
+  text-align: center;
+}
+
+ol {
+  list-style-type: none;
+  padding: 0;
+  line-height: 1.5;
+}
+
+li {
+  font-weight: normal;
+  font-size: 1rem;
+  font-style: normal;
+  font-family: 'Indie Flower', cursive;
+  line-height: 1;
+  color: purple;
+
+}
+
+figure {
+  border: solid;
+  margin: 2px;
+  padding: 1em;
+  border-radius: 20px;
+}
+
+figcaption {
+  font-weight: normal;
+  font-size: 1rem;
+  font-style: italic;
+  font-family: 'Indie Flower', cursive;
+  line-height: 1;
+  text-align: center
+}
+
+dt {
+  font-weight: bold;
+  font-size: 1.2rem;
+  font-style: normal;
+  font-family: 'Indie Flower', cursive;
+  line-height: 1;
+  color: purple;
+}
+
+footer {
+  background-color: lightyellow;
+  text-align: left;
+}
+
+img {
+  width: 100%
+}
