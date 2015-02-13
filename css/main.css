@@ -78,6 +78,7 @@ h2 {
   color: magenta;
   margin: 1em 0em 0em 0em;
   border-top: solid 0.4rem
+  padding: 3;
 }
 
 h3 {
