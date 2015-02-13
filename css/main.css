@@ -75,7 +75,8 @@ h2 {
   font-family: 'Sigmar One';
   line-height: 1;
   margin: 1em 0em 0em 0em;
-  border-top: solid 0.4rem 
+  border-top: solid 0.4rem
+  padding: 2em 
 }
 
 h3 {
