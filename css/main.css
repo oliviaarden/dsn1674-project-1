@@ -99,6 +99,7 @@ blockquote {
   font-family: 'Georgia', sans-serif;
   line-height: 1;
   text-align: center;
+  color: grey;
 }
 
 cite {
