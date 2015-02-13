@@ -77,8 +77,8 @@ h2 {
   line-height: 1;
   color: magenta;
   margin: 1em 0em 0em 0em;
-  border-top: solid 0.4rem
-  padding: 1;
+  border-top: solid black 0.4rem;
+  padding: 20px;
 }
 
 h3 {
@@ -129,7 +129,7 @@ li {
 figure {
   border: solid;
   margin: 2px;
-  padding: 1em;
+  padding: 0.5em;
   border-radius: 20px;
   background-color: lightyellow;
 }
@@ -139,7 +139,7 @@ figcaption {
   font-size: 1rem;
   font-style: italic;
   font-family: 'Georgia';
-  line-height: 1;
+  line-height: 2;
   text-align: center
 }
 
